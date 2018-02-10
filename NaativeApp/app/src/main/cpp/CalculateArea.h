@@ -14,6 +14,8 @@ public:
     int rectangleArea();
     float trianguloArea(float base, float altura);
     float trapezioArea(float base, float altura, float baseMenorDoTrapezio);
+    int factorial( int n );
+    void foo ();
 };
 
 
