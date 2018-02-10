@@ -16,6 +16,8 @@ public:
     float trapezioArea(float base, float altura, float baseMenorDoTrapezio);
     int factorial( int n );
     void foo ();
+    double contrast(double **P, int Ng);
+    double entropy (double **P, int Ng);
 };
 
 
