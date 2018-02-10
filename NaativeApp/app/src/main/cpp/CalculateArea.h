@@ -12,6 +12,8 @@ public:
     CalculateArea(int x);
     int squareArea();
     int rectangleArea();
+    float trianguloArea(float base, float altura);
+    float trapezioArea(float base, float altura, float baseMenorDoTrapezio);
 };
 
 
